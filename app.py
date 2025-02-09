@@ -6,7 +6,7 @@ import numpy as np
 model = joblib.load("best_model.pkl")
 
 # Streamlit UI
-st.title("My first ML App (Study on Imbalanced Data Classification by 67130701707 ")
+st.title("My first ML App (Study on Imbalanced Data Classification by 67130701707 "))
 
 # Input fields
 features = []
